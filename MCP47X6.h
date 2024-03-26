@@ -13,7 +13,6 @@
 #include "driver/i2c.h"
 
 // #include "DaughterBoard.h"
-#include "Globals.h"
 
 /*
     Note: library does not currently support the following features:

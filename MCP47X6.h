@@ -131,6 +131,8 @@ typedef struct MCP47X6
 
 extern MCP47X6_t MCP47X6;
 
+void MCP47X6_DUMMY();
+
 double MCP47X6_getVrefVoltage();
 bool MCP47X6_setVrefVoltage(double voltage);
 

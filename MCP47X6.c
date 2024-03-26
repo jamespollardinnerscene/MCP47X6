@@ -39,6 +39,11 @@ double MCP47X6_scaleOutputToFSR()
 
 
 // Functions (Public)
+void MCP47X6_DUMMY()
+{
+
+}
+
 double MCP47X6_getVrefVoltage()
 {
     // TODO: handle gains etc.
